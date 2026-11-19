@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lucky=false": { "model": "luckytest:block/food_block" },
+    "lucky=true": { "model": "luckytest:block/food_block" }
+  }
+}

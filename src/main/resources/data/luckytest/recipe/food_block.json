@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": "minecraft:bread"
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "id": "luckytest:food_block"
+  }
+}
